@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/peyman1127/register",
+
+  "owner": {
+    "username": "peyman1127",
+    "email": "os.peyman.johari@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "pei", 
+      "value": "5.42.75.188"
+    }
+  },
+
+  "proxied": false
+}
